@@ -1,0 +1,5 @@
+# Not copying any template here as will add entries here on need basis
+# Inspiration: https://github.com/github/gitignore, https://www.toptal.com/developers/gitignore
+
+# Virtual Env
+# .venv  # commented as venv directory already contains a .gitignore file
